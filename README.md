@@ -7,3 +7,4 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=151180665)
 ![](https://komarev.com/ghpvc/?username=czheso&color=green)
+![](https://komarev.com/ghpvc/?username=czheso&style=for-the-badge&color=red)
