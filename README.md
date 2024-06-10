@@ -1,6 +1,6 @@
 ### Hello, I'm Andrew (Heso - Ondra) 👋
 
-- 🔭 I’m currently working on [PoliceRP Plugin](https://github.com/czHeso/PoliceRP_Plugin) & [AutoMessages](https://github.com/czHeso/AutoMessages)
+- 🔭 I’m currently working on [WebRewards](https://github.com/czHeso/WebRewards) & [AutoMessages](https://github.com/czHeso/AutoMessages)
 - 🌱 I’m currently learning **Kotlin**
 - 📫 How to reach me: admin@snezik.cz
 - ⚡ Fun fact: It all started playing Minecraft..
